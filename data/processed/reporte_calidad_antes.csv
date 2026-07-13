@@ -1,0 +1,7 @@
+dataset,filas,columnas,duplicados,nulos_totales,columnas_con_nulos
+siniestros,24595,11,818,0,0
+vehiculos,2311960,10,2113512,0,0
+precipitacion,20588,18,0,29170,12
+temperatura,6498,18,0,10257,12
+fallecidos,16526,10,0,88,1
+poblacion,1042,6,0,0,0

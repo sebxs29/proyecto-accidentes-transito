@@ -1,0 +1,9 @@
+dataset,filas,columnas,duplicados,nulos_totales,columnas_con_nulos
+siniestros_limpio,24595,18,0,0,0
+vehiculos_limpio,2311960,11,2113512,0,0
+precipitacion_limpia,216,9,0,54,1
+temperatura_limpia,216,9,0,54,1
+fallecidos_sppat_2019_limpio,3170,12,0,29,1
+poblacion_limpia,1042,6,0,0,0
+riesgo_provincia,24,17,0,0,0
+siniestros_clima_mensual,12,8,0,0,0

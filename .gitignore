@@ -1,0 +1,28 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variables privadas
+.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Archivos de Power BI temporales
+*.pbit.lock
+
+# Archivos de vehículos demasiado grandes
+data/raw/vehiculos_matriculados_2019*
+data/processed/vehiculos_matriculados_2019_limpio*
