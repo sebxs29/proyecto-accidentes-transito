@@ -1,0 +1,23 @@
+﻿dataset,validacion,resultado,detalle
+siniestros,Tiene registros,OK,Total registros: 23777
+siniestros,Meses válidos,OK,Meses inválidos: 0
+siniestros,Días de semana válidos,OK,Días inválidos: 0
+siniestros,Horas válidas,OK,Horas inválidas: 0
+siniestros,Víctimas no negativas,OK,Filas con víctimas negativas: 0
+siniestros,Total víctimas consistente,OK,Inconsistencias: 0
+vehiculos,Tiene registros,OK,Total registros: 2311960
+vehiculos,Provincia no nula,OK,Provincias nulas: 0
+vehiculos,Pasajeros no negativos,OK,Pasajeros negativos: 0
+vehiculos,Tonelaje no negativo,OK,Tonelaje negativo: 0
+precipitacion,Meses válidos,OK,Meses inválidos: 0
+precipitacion,Precipitación no negativa,OK,Valores negativos: 0
+temperatura,Meses válidos,OK,Meses inválidos: 0
+temperatura,Temperatura en rango razonable,OK,Valores fuera de rango: 0
+fallecidos_sppat,Tiene registros,OK,Total registros: 3170
+fallecidos_sppat,Solo contiene año 2019,OK,Años encontrados: [2019]
+fallecidos_sppat,Provincia no nula,OK,Provincias nulas: 0
+poblacion,Tiene registros,OK,Total registros: 1042
+poblacion,Población positiva,OK,Población <= 0: 0
+poblacion,Provincia no nula,OK,Provincias nulas: 0
+integridad_referencial,Provincias de siniestros existen en población,OK,Provincias sin coincidencia: Ninguna
+integridad_referencial,Provincias de vehículos existen en población,OK,Provincias sin coincidencia: Ninguna
