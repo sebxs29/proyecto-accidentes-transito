@@ -1,0 +1,29 @@
+CONSULTAS DE VALIDACIÓN REDIS
+
+
+# Mostrar todas las claves almacenadas
+KEYS *
+
+# Mostrar el número total de claves almacenadas
+DBSIZE
+
+# Consultar un registro de la colección clima
+HGETALL clima:Row101
+
+# Consultar un registro de la colección vehículos
+HGETALL vehiculos:Row15
+
+# Consultar un registro de la colección población
+HGETALL poblacion:Row1003
+
+# Consultar un registro de la colección ubicación
+HGETALL ubicacion:Row10
+
+# Consultar otro registro de la colección ubicación
+HGETALL ubicacion:Row1
+
+# Consultar un registro de la colección fechas
+HGETALL fechas:Row11339
+
+# Consultar un registro de la colección fact_siniestros
+HGETALL fact_siniestros:1
