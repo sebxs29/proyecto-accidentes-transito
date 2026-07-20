@@ -1,0 +1,1 @@
+\copy staging.temperatura_limpia (estacion, nombreestacion, longitud2, latitud2, altitud, anio, mes, temperatura, mes_num) FROM 'C:/Users/sebxs29/Documents/Universidad/Semestre_3_2026_A/Analisis_Datos/proyecto-accidentes-transito/data/processed/temperatura_2019_limpia.csv' WITH (FORMAT csv, HEADER true, ENCODING 'UTF8');

@@ -1,0 +1,1 @@
+\copy staging.poblacion_limpia (provincia, canton, parroquia, poblacion, superficie_de_la_parroquia_km2_, densidad_poblacional) FROM 'C:/Users/sebxs29/Documents/Universidad/Semestre_3_2026_A/Analisis_Datos/proyecto-accidentes-transito/data/processed/poblacion_censo_2022_limpia.csv' WITH (FORMAT csv, HEADER true, ENCODING 'UTF8');

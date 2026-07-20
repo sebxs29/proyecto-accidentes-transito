@@ -27,3 +27,5 @@ Thumbs.db
 # Archivos de vehículos demasiado grandes
 data/raw/vehiculos_matriculados_2019*
 data/processed/vehiculos_matriculados_2019_limpio*
+databases/mongodb/backup/
+databases/postgresql/*.backup

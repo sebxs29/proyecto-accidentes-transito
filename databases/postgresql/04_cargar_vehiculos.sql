@@ -1,0 +1,1 @@
+\copy staging.vehiculos_limpios (provincia, marca, clase, pasajeros, tonelaje, combustible, modelo, servicio, estratone, estrapasajero, anio) FROM 'C:/Users/sebxs29/Documents/Universidad/Semestre_3_2026_A/Analisis_Datos/proyecto-accidentes-transito/data/processed/vehiculos_matriculados_2019_limpio.csv' WITH (FORMAT csv, HEADER true, ENCODING 'UTF8');
