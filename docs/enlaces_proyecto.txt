@@ -1,0 +1,15 @@
+PROYECTO: ANÁLISIS DE SINIESTROS DE TRÁNSITO EN ECUADOR
+
+VIDEOS
+
+Video 1: Proceso de datos y ETL
+YouTube: https://youtu.be/Vh4ucRvnLXo
+
+Video 2: Análisis del dashboard y conclusiones
+YouTube: https://youtu.be/dbfiKm1pj68
+
+
+DASHBOARD
+
+Publicación de Power BI:
+https://app.powerbi.com/view?r=eyJrIjoiNTQzNmY4OTItNTFiMC00OWU5LTliMzktMjcyM2Q3NGM3MDU1IiwidCI6IjY4MmE0ZTZhLWE3N2YtNDk1OC1hM2FjLTllMjY2ZDE4YWEzNyIsImMiOjR9
